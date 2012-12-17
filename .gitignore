@@ -1,0 +1,10 @@
+# Generic files
+*.lock
+*.swp
+*.class
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
